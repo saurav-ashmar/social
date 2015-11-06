@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Facebook Client-side OAuth Example</title>
+	<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.1.min.js"></script>
+	<script src="./facebook.js"></script>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+<h1 id="header">Get Facebook User Data</h1>
+<button id="fb-login">Login to Facebook</button>
+<pre id="userdata">
+
+</pre>
+</body>
+</html>
